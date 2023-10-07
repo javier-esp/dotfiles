@@ -1,0 +1,37 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+clientMachine1=localhost
+command1=firefox
+count=1
+
+[Session: saved at previous logout]
+clientId1=1014213ca3d6000169661505300000015860006
+clientId2=1014213ca3d6000169660891500000015320015
+clientId3=1014213ca3d6000169660891700000015320016
+clientId4=1014213ca3d6000169661505400000015860008
+clientId5=1014213ca3d6000169661541200000015860012
+count=5
+discardCommand2[$e]=rm,$HOME/.config/session/konsole_1014213ca3d6000169660891500000015320015_1696615432_686168
+discardCommand3[$e]=rm,$HOME/.config/session/konsole_1014213ca3d6000169660891700000015320016_1696615432_686071
+program1=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier
+program2=/usr/bin/konsole
+program3=/usr/bin/konsole
+program4=pulseaudio
+program5=/usr/lib/x86_64-linux-gnu/libexec/drkonqi
+restartCommand1=/usr/lib/x86_64-linux-gnu/libexec/DiscoverNotifier,-session,1014213ca3d6000169661505300000015860006_1696615432_686033
+restartCommand2=/usr/bin/konsole,-session,1014213ca3d6000169660891500000015320015_1696615432_686168
+restartCommand3=/usr/bin/konsole,-session,1014213ca3d6000169660891700000015320016_1696615432_686071
+restartCommand4=
+restartCommand5=/usr/lib/x86_64-linux-gnu/libexec/drkonqi,-session,1014213ca3d6000169661541200000015860012_1696615432_686086
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+restartStyleHint5=0
+userId1=javier
+userId2=javier
+userId3=javier
+userId4=javier
+userId5=javier

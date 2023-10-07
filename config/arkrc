@@ -1,0 +1,15 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/Descargas/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/Descargas/
+detailViewIconSize=16
+
+[MainWindow]
+HDMI-0 XPosition 2560x1440=930
+HDMI-0 YPosition 2560x1440=458
+State=AAAA/wAAAAD9AAAAAAAAArwAAAGkAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=466,233

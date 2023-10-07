@@ -1,0 +1,35 @@
+[file:///home/javier/.config/bspwm/bspwmrc]
+Bookmarks=
+Checksum=ed5b77fbdf51a60fa7f0aa040b8139a7ebb82bbf
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,10,6,16,45,54.076
+URL=file:///home/javier/.config/bspwm/bspwmrc
+
+[file:///home/javier/.config/polybar/launch.sh]
+Bookmarks=
+Checksum=edf56f294c9be18ae2f3ef936b160ec69635ad21
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2023,10,6,16,16,4.329
+URL=file:///home/javier/.config/polybar/launch.sh
+
+[file:///home/javier/.config/sxhkd/sxhkdrc]
+Bookmarks=
+Checksum=bbef0a8292dbccdc6bc351823694be36b46edde7
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2023,10,6,16,42,13.338
+URL=file:///home/javier/.config/sxhkd/sxhkdrc
